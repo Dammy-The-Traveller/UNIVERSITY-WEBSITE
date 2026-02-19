@@ -1,0 +1,1 @@
+<?php view('Student-Life/Fresh-Student-Guide/Campus-Facilities.view.php'); 

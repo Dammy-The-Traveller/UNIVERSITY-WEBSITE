@@ -1,0 +1,1 @@
+<?php view('Admissions/instant-Online-registration.view.php'); 

@@ -1,0 +1,1 @@
+<?php view('Student-Life/University-life.view.php'); 

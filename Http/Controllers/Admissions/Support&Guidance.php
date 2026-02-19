@@ -1,0 +1,1 @@
+<?php view('Admissions/Support&Guidance.view.php'); 

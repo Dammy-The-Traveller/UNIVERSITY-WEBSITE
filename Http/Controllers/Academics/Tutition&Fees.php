@@ -1,0 +1,1 @@
+<?php view('Academics/Tutition&Fees.view.php'); 

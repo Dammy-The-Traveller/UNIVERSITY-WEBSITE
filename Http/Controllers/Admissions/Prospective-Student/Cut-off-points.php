@@ -1,0 +1,1 @@
+<?php view('Admissions/Prospective-Student/Cut-off-points.view.php'); 

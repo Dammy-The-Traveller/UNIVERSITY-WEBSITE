@@ -1,0 +1,1 @@
+<?php view('user/dashboard.view.php'); 

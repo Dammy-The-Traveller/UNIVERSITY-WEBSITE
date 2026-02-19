@@ -1,0 +1,1 @@
+<?php view('Admissions/Check-Admission-Status.view.php'); 

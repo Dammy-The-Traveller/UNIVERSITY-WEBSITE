@@ -1,0 +1,1 @@
+<?php view('About-Us/Privacy-Policy.view.php'); 

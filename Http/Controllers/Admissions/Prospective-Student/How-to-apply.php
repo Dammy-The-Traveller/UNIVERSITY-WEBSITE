@@ -1,0 +1,1 @@
+<?php view('Admissions/Prospective-Student/How-to-apply.view.php'); 

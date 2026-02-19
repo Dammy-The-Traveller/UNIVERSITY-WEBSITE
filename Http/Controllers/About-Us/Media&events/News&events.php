@@ -1,0 +1,1 @@
+<?php view('About-Us/Media&events/News&Events.view.php'); 

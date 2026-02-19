@@ -1,0 +1,1 @@
+<?php view('Academics/All-Programs.view.php'); 

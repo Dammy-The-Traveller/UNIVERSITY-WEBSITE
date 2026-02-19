@@ -1,0 +1,1 @@
+<?php view('About-Us/terms-conditions.view.php'); 

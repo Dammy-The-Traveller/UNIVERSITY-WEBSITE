@@ -1,0 +1,1 @@
+<?php view('Admissions/Verify-Admission.view.php'); 

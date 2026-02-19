@@ -1,0 +1,1 @@
+<?php view('registration/new_index.view.php'); 
