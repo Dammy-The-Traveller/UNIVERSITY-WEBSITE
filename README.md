@@ -6,6 +6,9 @@ A custom PHP web application for the Accra Institute of Technology, featuring a 
 
 This project is a feature-rich institutional website for AIT with sections for admissions, academics, student life, health care, and more. It uses a custom PHP framework built from scratch, featuring:
 
+<img width="1876" height="918" alt="image" src="https://github.com/user-attachments/assets/79e1db42-0461-4047-b0d0-404299571326" />
+
+
 - **Custom Routing System**: RESTful routes with HTTP method support (GET, POST, PUT, PATCH, DELETE)
 - **Database Layer**: PDO-based MySQL abstraction with query building
 - **Authentication & Sessions**: Built-in session management and authentication middleware
